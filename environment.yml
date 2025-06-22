@@ -9,7 +9,6 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
-  - sklearn
+  - scikit-learn
   - statsmodels
   - prophet
-  - missforest
